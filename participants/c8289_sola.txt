@@ -1,1 +1,6 @@
+hehhehehehe<<<<<<< HEAD
 whats up?
+=======
+this is a new line
+
+>>>>>>> developer-sola
